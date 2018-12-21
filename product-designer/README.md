@@ -1,6 +1,6 @@
 ## Product Designer chez Bruno
 
-Bienvenue ! Tu as postulé au poste de Product Designer chez Bruno, on est ravis que tu souhaites nous rejoindre. Avant de continuer, nous aimerions te proposer un exercice de design.
+Bienvenue ! Tu as postulé au poste de Product Designer chez Bruno. On est ravis que tu souhaites nous rejoindre. Avant de continuer, nous aimerions te proposer un exercice de design.
 
 ## Contexte
 Bruno, en partenariat avec SpaceX, propose à ses utilisateurs de mettre de côté spécialement pour un voyage sur Mars.
