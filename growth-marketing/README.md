@@ -1,6 +1,6 @@
 ## Growth Marketing chez Bruno
 
-Bienvenue ! Tu as postulé au poste de Growth Marketing chez Bruno. On est ravis que tu souhaites nous rejoindre. Avant de continuer, nous aimerions te proposer un cas d'étude.
+Bienvenue ! Tu as postulé au poste de Growth Marketing chez Bruno. On est ravis que tu souhaites nous rejoindre. Avant de continuer, nous aimerions te proposer une étude de cas.
 
 ## Contexte
 Bruno souhaite aujourd'hui faire grandir son nombre d'utilisateurs. L'équipe Growth a pour mission de faire passer Bruno de 10 000 à 100 000 utilisateurs actifs. Pour cela, elle souhaite mettre en place une stratégie de partenariats.
