@@ -7,10 +7,14 @@ Bruno souhaite aujourd'hui faire grandir son nombre d'utilisateurs. L'équipe Gr
 
 ## Consignes
 Tu as ce type de page à ta disposition : https://www.hibruno.com/p/spwpze. Tu peux en modifier le titre et le sous-titre. Tu peux créer autant de pages que tu le souhaites ou tu peux aussi ne pas en utiliser du tout.
+
+Tu veux d'abord acquérir 1000 nouveaux utilisateurs.
 - Vers quels partenaires te tournes-tu ?
 - Quels types de partenariats leur proposes-tu et comment les mets-tu en place ?
 - Quels tests mettrais-tu en place pour mesurer l'efficacité de ces partenariats ?
-- Au terme des tests, quelle roadmap pour implanter la stratégie à plus grande échelle ?
+
+Tu veux maintenant acquérir 100 000 nouveaux utilisateurs.
+- Quelle roadmap pour implanter la stratégie à plus grande échelle ?
 
 Quelques tips :
 - Ne te sens pas obligé•e de tout faire, ce n'est pas le but
