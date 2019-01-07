@@ -21,4 +21,4 @@ et
 >Merci pour votre retour.
 >Cordialement,
 
-On te répond rapidement dès que tu nous envoie les réponses.
+On te répond rapidement dès que tu nous envoies les réponses.
