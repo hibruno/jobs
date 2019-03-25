@@ -15,14 +15,14 @@ We are trying to forecast the future balance of one's account. We want to be abl
 The transactions.csv file has 1 year of historical transactions for about 100 Bruno users. Data in balances.csv is a snapshot of Bruno users current accounts as of February 22nd, 2019.
 
 In transactions.csv, there are 6 columns.
-- user ID, the transaction user ID
+- account ID, ID of the account linked to the transaction
 - ID, the ID of the transaction
 - channel, the transaction channel
 - application date, the date the transaction happened
 - amount cents, the amount of the transaction in cents
 
 In balances.csv, there are 2 columns.
-- ID, the user ID of the account
+- account ID, ID of the account
 - balance, the balance of the account in cents
 
 ### Questions
