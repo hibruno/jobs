@@ -1,4 +1,4 @@
-## Growth Marketing chez Bruno
+# Growth Marketing chez Bruno
 
 Bienvenue ! Tu as postulé au poste de Growth Marketing chez Bruno. On est ravis que tu souhaites nous rejoindre. Avant de continuer, nous aimerions te proposer une étude de cas.
 

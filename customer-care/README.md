@@ -1,4 +1,4 @@
-## Customer Care chez Bruno
+# Customer Care chez Bruno
 
 Bienvenue ! Tu as postulé au poste de Customer Care chez Bruno. On est ravis que tu souhaites nous rejoindre. Avant de continuer, nous aimerions te proposer de rédiger une réponse à nos clients 🐻
 

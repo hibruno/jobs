@@ -1,4 +1,4 @@
-## Data Scientist at Bruno
+# Data Scientist at Bruno
 
 Hi ! You have successfully applied to our Data Scientist position. We are glad you are looking to join us. Before we go any further, we would like to look at this exercise so that we can better evaluate your data science skills.
 

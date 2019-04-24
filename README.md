@@ -11,3 +11,5 @@ Forked from Drivy challenges, thanks to this amazing RoR team
 - [growth marketing](https://github.com/hibruno/jobs/tree/master/growth-marketing)
 
 - [customer care](https://github.com/hibruno/jobs/tree/master/customer-care)
+
+- [marketing & business development](https://github.com/hibruno/jobs/tree/master/business-development)
