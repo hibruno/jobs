@@ -1,6 +1,6 @@
 # Challenges
 
-- [sofware-engineer](https://github.com/hibruno/jobs/tree/master/software-engineer)
+- [software-engineer](https://github.com/hibruno/jobs/tree/master/software-engineer)
   Forked from Drivy challenges, thanks to this amazing RoR team
 
 - [data & ops](https://github.com/hibruno/jobs/tree/master/data-ops)
