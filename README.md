@@ -12,4 +12,6 @@ Forked from Drivy challenges, thanks to this amazing RoR team
 
 - [customer care](https://github.com/hibruno/jobs/tree/master/customer-care)
 
+- [data scientist](https://github.com/hibruno/jobs/tree/master/data-scientist)
+
 - [marketing & business development](https://github.com/hibruno/jobs/tree/master/business-development)
